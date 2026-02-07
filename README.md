@@ -25,6 +25,8 @@ This project implemented the **Facebook Prophet** model, a robust forecasting to
 * **Evaluation Metrics**: The model's performance was evaluated by comparing the forecasted values (yhat) against actual November 2022 market prices from Google Finance. Key visual metrics included:
 * **Trend Components**: Decomposition of the stock’s overall growth trend versus weekly and yearly seasonality.
 * **Uncertainty Intervals**: The model provided upper and lower bounds (yhat_upper and yhat_lower) to quantify the confidence level of the 30-day forecast.
+<img width="699" height="418" alt="Screen Shot 2026-02-07 at 15 31 46" src="https://github.com/user-attachments/assets/584e0cb1-fb9a-423a-81b7-57af7cbf4e01" />
+<img width="656" height="422" alt="Screen Shot 2026-02-07 at 15 32 11" src="https://github.com/user-attachments/assets/87323b1c-54bd-4ee7-87d4-62b20de7be8e" />
 
 ### **Conclusion**
 
