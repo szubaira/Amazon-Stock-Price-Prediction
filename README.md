@@ -35,6 +35,3 @@ The analysis demonstrates that the Facebook Prophet model is an effective baseli
 * **Hyperparameter Tuning**: Optimize the "changepoint_prior_scale" to better adjust for sudden shifts in market volatility.
 * **Multivariate Analysis**: Integrate additional regressors such as trading volume or macroeconomic indicators (e.g., inflation rates) to improve prediction accuracy during periods of market instability.
 * **Sentiment Analysis Integration**: Incorporate Natural Language Processing (NLP) of financial news headlines as a complementary feature to account for non-numerical market drivers.
-
-
-**Would you like me to generate a summary of the specific seasonal trends (weekly vs. yearly) identified by the Prophet model for your portfolio report?**
